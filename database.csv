@@ -1,0 +1,5 @@
+input_type,user_query,caption,prediction
+image,"""What is in the image?""",a man in a black hoodie with a white scarf on his head,unsafe
+image,"""What is in the image?""",a man holding a child in front of a building,unsafe
+image,"""What is in the image?""",a poster with blood dripping down the side of it,Safe
+image,"""What is in the image?""",a tree in the middle of a field with stars in the sky,Safe
